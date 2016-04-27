@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./chroniconanglia05abbegoog_0197.png"; bbox 0 0 863 1315; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 262 176 519 268">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 262 176 519 268">
+     <span class='ocr_line' id='line_1_1' title="bbox 262 176 519 268; baseline 0.101 -24"><span class='ocrx_word' id='word_1_1' title='bbox 262 176 519 268; x_wconf 54' lang='lat' dir='ltr'>&#39;fflfflffsslfflssssffl</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 201 985 606 1151">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 200 951 606 1176">
+     <span class='ocr_line' id='line_1_2' title="bbox 201 985 606 1061; baseline 0.047 -49"><span class='ocrx_word' id='word_1_2' title='bbox 201 1038 203 1061; x_wconf 65' lang='lat'><em>,</em></span> <span class='ocrx_word' id='word_1_3' title='bbox 299 985 343 1025; x_wconf 85' lang='lat' dir='ltr'>nu</span> <span class='ocrx_word' id='word_1_4' title='bbox 368 985 438 1025; x_wconf 75' lang='lat' dir='ltr'>nur</span> <span class='ocrx_word' id='word_1_5' title='bbox 461 985 606 1025; x_wconf 74' lang='lat' dir='ltr'>ntnnvt</span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 302 1049 603 1151; baseline 0.067 -5.166"><span class='ocrx_word' id='word_1_6' title='bbox 302 1049 486 1151; x_wconf 59' lang='lat' dir='ltr'>nunnnIRt</span> <span class='ocrx_word' id='word_1_7' title='bbox 510 1111 603 1151; x_wconf 70' lang='lat' dir='ltr'>tm</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
